@@ -1,0 +1,101 @@
+Rank,Name,Pay,Salary/Winnings,Endorsements,Sport
+1,Roger Federer,$106.30 ,$6.30 ,$100.00 ,Tennis   
+2,Cristiano Ronaldo,$105 ,$60 ,$45.00 ,Soccer   
+3,Lionel Messi,$104 ,$80 ,$24.00 ,Soccer   
+4,Neymar,$95.50 ,$70.50 ,$25.00 ,Soccer   
+5,LeBron James,$88.20 ,$28.20 ,$60.00 ,Basketball   
+6,Stephen Curry,$74.40 ,$30.40 ,$44.00 ,Basketball   
+7,Kevin Durant,$63.90 ,$28.90 ,$35.00 ,Basketball   
+8,Tiger Woods,$62.30 ,$2.30 ,$60.00 ,Golf   
+9,Kirk Cousins,$60.50 ,$58 ,$2.50 ,Football   
+10,Carson Wentz,$59.10 ,$55.10 ,$4.00 ,Football   
+11,Tyson Fury,$57 ,$50 ,$7.00 ,Boxing   
+12,Russell Westbrook,$56 ,$29 ,$27.00 ,Basketball   
+13,Lewis Hamilton,$54 ,$42 ,$12.00 ,Auto Racing  
+14,Rory McIlroy,$52 ,$22 ,$30.00 ,Golf   
+15,Jared Goff,$49 ,$47 ,$2.00 ,Football   
+16,Conor McGregor,$48 ,$32 ,$16.00 ,Mixed Martial Arts 
+17,James Harden,$47.80 ,$28.80 ,$19.00 ,Basketball   
+18,Giannis Antetokounmpo,$47.60 ,$19.60 ,$28.00 ,Basketball   
+19,Anthony Joshua,$47 ,$36 ,$11.00 ,Boxing   
+20,Deontay Wilder,$46.50 ,$46 ,$0.00 ,Boxing   
+21,Tom Brady,$45 ,$33 ,$12.00 ,Football   
+22,Drew Brees,$44.80 ,$29.80 ,$15.00 ,Football   
+23,Novak Djokovic,$44.60 ,$12.60 ,$32.00 ,Tennis   
+24,Kyrie Irving,$41.90 ,$23.90 ,$18.00 ,Basketball   
+25,Phil Mickelson,$40.80 ,$0.80 ,$40.00 ,Golf   
+26,Julio Jones,$40.50 ,$37.50 ,$3.00 ,Football   
+27,Rafael Nadal,$40 ,$14 ,$26.00 ,Tennis   
+28,Klay Thompson,$38.80 ,$24.80 ,$14.00 ,Basketball   
+29,Naomi Osaka,$37.40 ,$3.40 ,$34.00 ,Tennis   
+30,Canelo Alvarez,$37 ,$35 ,$2.00 ,Boxing   
+30,Damian Lillard,$37 ,$22.50 ,$14.50 ,Basketball   
+32,Sebastian Vettel,$36.30 ,$36 ,$0.30 ,Auto Racing  
+33,Serena Williams,$36 ,$4 ,$32.00 ,Tennis   
+34,Mohamed Salah,$35.10 ,$23.10 ,$12.00 ,Soccer   
+35,Chris Paul,$35 ,$29 ,$6.00 ,Basketball   
+36,Kylian Mbappe,$33.80 ,$20.80 ,$13.00 ,Soccer   
+37,Grady Jarrett,$33.10 ,$33 ,$0.05 ,Football   
+38,Paul George,$32.80 ,$24.80 ,$8.00 ,Basketball   
+39,Michael Thomas,$32.40 ,$31.60 ,$0.75 ,Football   
+40,Kei Nishikori,$32.10 ,$1.10 ,$31.00 ,Tennis   
+41,Blake Griffin,$31.90 ,$25.90 ,$6.00 ,Basketball   
+42,John Wall,$31.20 ,$28.70 ,$2.50 ,Basketball   
+43,Kawhi Leonard,$30.50 ,$25 ,$5.50 ,Basketball   
+44,Anthony Davis,$30.40 ,$20.40 ,$10.00 ,Basketball   
+45,Aaron Rodgers,$30.10 ,$21.10 ,$9.00 ,Football   
+46,Andres Iniesta,$29.60 ,$26.60 ,$3.00 ,Soccer   
+47,Matt Ryan,$29.50 ,$24 ,$5.50 ,Football   
+48,Daniel Ricciardo,$29 ,$27 ,$2.00 ,Auto Racing  
+49,Mesut Ozil,$28.70 ,$23.20 ,$5.50 ,Soccer   
+50,Kyle Lowry,$28.50 ,$27 ,$1.50 ,Basketball   
+50,Paul Pogba,$28.50 ,$23 ,$5.50 ,Soccer   
+52,Jimmy Butler,$27.60 ,$24.60 ,$3.00 ,Basketball   
+52,Gordon Hayward,$27.60 ,$24.60 ,$3.00 ,Basketball   
+52,Jordan Spieth,$27.60 ,$1.60 ,$26.00 ,Golf   
+52,Kemba Walker,$27.60 ,$24.60 ,$3.00 ,Basketball   
+56,Oscar,$27.50 ,$25.80 ,$1.70 ,Soccer   
+57,Clayton Kershaw,$27.30 ,$26.50 ,$0.75 ,Baseball   
+57,Zion Williamson,$27.30 ,$7.30 ,$20.00 ,Basketball   
+59,Arik Armstead,$26.80 ,$26.50 ,$0.25 ,Football   
+60,Joel Embiid,$26.70 ,$20.70 ,$6.00 ,Basketball   
+60,Antoine Griezmann,$26.70 ,$21.20 ,$5.50 ,Soccer   
+62,Devin Booker,$26.60 ,$20.60 ,$6.00 ,Basketball   
+63,Christian McCaffrey,$26.50 ,$23.50 ,$3.00 ,Football   
+63,D'Angelo Russell,$26.50 ,$20.50 ,$6.00 ,Basketball   
+65,Darius Slay,$26.10 ,$25.80 ,$0.25 ,Football   
+66,Virat Kohli,$26 ,$2 ,$24.00 ,Cricket   
+67,David De Gea,$25.70 ,$22.70 ,$3.00 ,Soccer   
+67,Kevin Love,$25.70 ,$21.70 ,$4.00 ,Basketball   
+69,Alexis Sanchez,$25.60 ,$24.60 ,$1.00 ,Soccer   
+70,Ryan Tannehill,$25.50 ,$25.20 ,$0.30 ,Football   
+71,"Mike Conley, Jr.",$25.40 ,$24.40 ,$1.00 ,Basketball   
+71,Tobias Harris,$25.40 ,$24.60 ,$0.75 ,Basketball   
+73,Gareth Bale,$25.20 ,$19.70 ,$5.50 ,Soccer   
+74,Bobby Wagner,$25 ,$24.50 ,$0.50 ,Football   
+75,Amari Cooper,$24.90 ,$23.90 ,$1.00 ,Football   
+76,DeMar DeRozan,$24.80 ,$20.80 ,$4.00 ,Basketball   
+77,Robert Quinn,$24.70 ,$24.50 ,$0.15 ,Football   
+78,Kristaps Porzingis,$24.50 ,$20.50 ,$4.00 ,Basketball   
+79,Al Horford,$24.40 ,$21.10 ,$3.30 ,Basketball   
+80,Trae Waynes,$24.30 ,$24.10 ,$0.25 ,Football   
+81,"Dante Fowler, Jr.",$24.20 ,$24 ,$0.20 ,Football   
+82,Khris Middleton,$24.10 ,$23.10 ,$1.00 ,Basketball   
+83,Marcus Mariota,$23.90 ,$20.90 ,$3.00 ,Football   
+84,CJ McCollum,$23.80 ,$20.80 ,$3.00 ,Basketball   
+85,Nick Bosa,$23.70 ,$22.90 ,$0.75 ,Football   
+85,Shaq Thompson,$23.70 ,$23.50 ,$0.15 ,Football   
+87,Karl-Anthony Towns,$23.50 ,$20.50 ,$3.00 ,Basketball   
+88,Philip Rivers,$23.40 ,$23 ,$0.40 ,Football   
+89,Ezekiel Elliott,$23.30 ,$21.30 ,$2.00 ,Football   
+89,Paul Millsap,$23.30 ,$22.80 ,$0.50 ,Basketball   
+91,Ben Roethlisberger,$23 ,$22 ,$1.00 ,Football   
+92,Andrus Peat,$22.70 ,$22.60 ,$0.05 ,Football   
+93,Andre Drummond,$22.60 ,$21.60 ,$1.00 ,Basketball   
+94,D.J. Reader,$22.40 ,$22.30 ,$0.08 ,Football   
+94,Quinnen Williams,$22.40 ,$22.20 ,$0.20 ,Football   
+96,Bradley Beal,$22.30 ,$20.30 ,$2.00 ,Basketball   
+97,Cam Newton,$22.20 ,$16.70 ,$5.50 ,Football   
+98,Calais Campbell,$22.10 ,$22 ,$0.10 ,Football   
+99,Derek Carr,$22 ,$20 ,$2.00 ,Football   
+100,Sergio Ramos,$21.80 ,$18.80 ,$3.00 ,Soccer   
